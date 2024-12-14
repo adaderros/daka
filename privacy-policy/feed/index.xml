@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="https://www.ldaf.state.la.us/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ldaf.state.la.us/</link>
+	<atom:link href="https://share.js.org/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://share.js.org/privacy-policy/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Apr 2024 23:03:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Nov 2024 21:01:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>

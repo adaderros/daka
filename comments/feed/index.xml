@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for IDAF	</title>
-	<atom:link href="https://www.ldaf.state.la.us/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ldaf.state.la.us/</link>
+	Comments for Share Sports	</title>
+	<atom:link href="https://share.js.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://share.js.org/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Apr 2024 23:09:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Dec 2024 18:23:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>
